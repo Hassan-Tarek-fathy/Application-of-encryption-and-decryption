@@ -1,0 +1,13 @@
+﻿  Application of encryption and decryption.cpp
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(66,19): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(86,19): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(105,19): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(351,20): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(349,7): warning C4101: 'c': unreferenced local variable
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(374,20): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(398,31): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Application of encryption and decryption.cpp(425,20): warning C4018: '<': signed/unsigned mismatch
+  Application of encryption and decryption.vcxproj -> D:\تشفير\Hassan Tarek\the App\Application of encryption and decryption\Debug\Application of encryption and decryption.exe
